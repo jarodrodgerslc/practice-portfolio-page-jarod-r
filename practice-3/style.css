@@ -1,0 +1,26 @@
+p {
+font-size: medium;
+color:black;
+font-family: cursive;
+}
+
+h2 {
+    background-color: beige;
+    display: inline-block;
+    text-align: center;
+    color: purple;
+}
+
+ul.skills {
+    list-style: circle;
+}
+
+
+body{   
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-family: sans-serif;
+}
